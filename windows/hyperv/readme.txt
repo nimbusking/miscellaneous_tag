@@ -1,0 +1,1 @@
+Under both of ps1 scripts, change "!!ClonerVm!!" to your name of virtual machine in HyperV,
