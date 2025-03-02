@@ -1,0 +1,6 @@
+[
+   { "keys": ["ctrl+1"], "command": "autoinsertpictag"},
+   {"keys": ["ctrl+f5","ctrl+t"], "command": "insert_date", "args": {"format": "%Y-%m-%d %H:%M:%S"}},
+   {"keys": ["ctrl+f5","ctrl+2"], "command": "insert_snippet", "args": { "name": "Packages/User/highlight_primary_tag.sublime-snippet" }},
+   {"keys": ["ctrl+f5","ctrl+3"], "command": "insert_snippet", "args": { "name": "Packages/User/highlight_success_tag.sublime-snippet" }},
+]
